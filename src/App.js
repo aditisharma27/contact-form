@@ -125,8 +125,7 @@ const {name,email,subject,message} = data;
                       </div>
                       <div className="text pl-3">
                         <p>
-                          <span> Address : </span> 198 West 21th Street, Suite
-                          721 New York NY 10016
+                          <span> Address : </span> Delhi
                         </p>
                       </div>
                     </div>
@@ -137,7 +136,7 @@ const {name,email,subject,message} = data;
                       <div className="text pl-3">
                         <p>
                           <span> Phone: </span>
-                          <a href="tel://91983465877">+917848398028 </a>
+                          <a href="tel://91983465877">+910000000 </a>
                         </p>
                       </div>
                     </div>
@@ -149,7 +148,7 @@ const {name,email,subject,message} = data;
                         <p>
                           <span> Email: </span>
                           <a href="mailto:info@yoursite.com">
-                            info@yoursite.com
+                            random@site.com
                           </a>
                         </p>
                       </div>
@@ -161,7 +160,7 @@ const {name,email,subject,message} = data;
                       <div className="text pl-3">
                         <p>
                           <span> Website : </span>
-                          <a href="/"> yoursite.com</a>
+                          <a href="/"> randomsite.com</a>
                         </p>
                       </div>
                     </div>
